@@ -83,8 +83,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'blog',
         'USER': 'blog', 
-        'PASSWORD': 'password', # I wouldn't normally put my password as password
-    }                           # but since this is going to be on github....
+        'PASSWORD': '********', # real password goes here
+    }                           
 }
 
 
